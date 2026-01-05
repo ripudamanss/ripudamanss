@@ -38,7 +38,6 @@ Here are some of the Python modules I've worked with:
 [![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=for-the-badge)](https://flask.palletsprojects.com/)
 [![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge)](https://pandas.pydata.org/)
 [![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge)](https://opencv.org/)
-[![PyJoke](https://img.shields.io/badge/-PyJoke-9b59b6?logo=python&logoColor=white&style=for-the-badge)](https://pypi.org/project/pyjoke/)
 
 And many more!
 
