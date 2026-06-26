@@ -56,65 +56,38 @@ class Ripudaman:
 
 <p align="center">
 
-<a href="https://www.python.org">
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" style="width: 80px; height: auto;" alt="PYTHON_LOGO"/>
-</a>
 
-<a href="https://java.com">
 <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" style="width: 80px; height: auto;" alt="JAVA_LOGO"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" style="width: 80px; height: auto;" alt="JAVA_SCRIPT_LOGO"/>
-</a>
-
-<a href="https://nodejs.org">
-<img src="https://nodejs.org/static/logos/nodejsStackedLight.svg" style="width:80px; height: auto;" alt="Node_JS_LOGO/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+<img src="https://nodejs.org/static/logos/nodejsStackedLight.svg" style="width:80px; height: auto;" alt="Node_JS_LOGO">
 <img src="https://cdn-icons-png.flaticon.com/512/143/143655.png" style="width:80px; height:auto;" alt="HTML_5_LOGO"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
 <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" style="width:80px; height:auto;" alt="CSS_LOGO"/>
-</a>
-
-<a href="https://dart.dev/">
 <img src="https://dart.dev/assets/img/logo/dart-192.svg" style="width:80px; height:auto;" alt="Dart_LOGO"/>
-</a>
-
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/960px-C_Programming_Language.svg.png?_=20201031132917" style="width:80px; height:auto;" alt="C_Language_LOGO"/>
-</a>
-
-<a href="https://isocpp.org/">
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" style="width:80px; height:auto;" alt="CPP_LOGO"/>
-</a>
-
-
-<a href="https://swift.org">
 <img src="https://www.svgrepo.com/show/374112/swift.svg" style="width:80px; height:auto;" alt="SWIFT_LOGO"/>
-</a>
+
 </p>
 
 ---
 
-## 🧠 AI / ML / Computer Vision
+## 🧠 AI / ML / Computer Vision Libraries Worked On 
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge"/>
+<img src="https://icon.icepanel.io/Technology/svg/OpenCV.svg" style="width:50px; height:auto;" alt="OPENCV_LOGO"/>
 
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge"/>
+<img src="https://icon.icepanel.io/Technology/svg/TensorFlow.svg" style="width:50px; height:auto;" alt="TensorFlow_LOGO"/>
 
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge"/>
+<img src="https://icon.icepanel.io/Technology/svg/PyTorch.svg" style="width:50px; height:auto;" alt="PYTORCH_LOGO"/>
 
-<img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge"/>
+<img src="https://github.com/numpy/numpy/blob/main/branding/logo/primary/numpylogolight.png?raw=true" style="width:80px; height:auto;" alt="NUMPY_LOGO"/>
 
-<img src="https://img.shields.io/badge/Pandas-180458?logo=pandas&logoColor=white&style=for-the-badge"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1280px-Pandas_logo.svg.png?_=20200209204934" style="width:80px; height:auto;" alt="PANDAS_LOGO"/>
 
-<img src="https://img.shields.io/badge/Matplotlib-003366?style=for-the-badge"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/960px-Created_with_Matplotlib-logo.svg.png" style="width:50px; height:auto;" alt="MATPLOT_LOGO"/>
 
 </p>
 
