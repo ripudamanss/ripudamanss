@@ -2,7 +2,7 @@
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=AI+Developer;Full+Stack+Engineer;Computer+Vision+Builder;IoT+%26+Automation+Enthusiast;Building+Intelligent+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=AI+Developer;Full+Stack+Engineer;Computer+Vision+Builder;IoT+%26+Automation+Enthusiast;Building+Intelligent+Systems" />
 
 </p>
 
@@ -57,45 +57,45 @@ class Ripudaman:
 <p align="center">
 
 <a href="https://www.python.org">
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" style="width: 80px; height: auto;" alt="PYTHON_LOGO"/>
+</a>
+
+<a href="https://java.com">
+<img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" style="width: 80px; height: auto;" alt="JAVA_LOGO"/>
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" style="width: 80px; height: auto;" alt="JAVA_SCRIPT_LOGO"/>
 </a>
 
 <a href="https://nodejs.org">
-<img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge"/>
+<img src="https://nodejs.org/static/logos/nodejsStackedLight.svg" style="width:80px; height: auto;" alt="Node_JS_LOGO/>
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge"/>
+<img src="https://cdn-icons-png.flaticon.com/512/143/143655.png" style="width:80px; height:auto;" alt="HTML_5_LOGO"/>
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge"/>
-</a>
-
-<a href="https://www.php.net/">
-<img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge"/>
+<img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" style="width:80px; height:auto;" alt="CSS_LOGO"/>
 </a>
 
 <a href="https://dart.dev/">
-<img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge"/>
-</a>
-
-<a href="https://swift.org">
-<img src="https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white&style=for-the-badge"/>
-</a>
-
-<a href="https://isocpp.org/">
-<img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge"/>
+<img src="https://dart.dev/assets/img/logo/dart-192.svg" style="width:80px; height:auto;" alt="Dart_LOGO"/>
 </a>
 
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-<img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/960px-C_Programming_Language.svg.png?_=20201031132917" style="width:80px; height:auto;" alt="C_Language_LOGO"/>
 </a>
 
+<a href="https://isocpp.org/">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" style="width:80px; height:auto;" alt="CPP_LOGO"/>
+</a>
+
+
+<a href="https://swift.org">
+<img src="https://www.svgrepo.com/show/374112/swift.svg" style="width:80px; height:auto;" alt="SWIFT_LOGO"/>
+</a>
 </p>
 
 ---
@@ -112,7 +112,7 @@ class Ripudaman:
 
 <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pandas-180458?logo=pandas&logoColor=white&style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Matplotlib-003366?style=for-the-badge"/>
 
@@ -136,7 +136,7 @@ class Ripudaman:
 
 <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Git-F08032?logo=git&logoColor=white&style=for-the-badge"/>
 
 </p>
 
