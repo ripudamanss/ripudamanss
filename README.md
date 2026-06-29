@@ -8,14 +8,6 @@
 
 ---
 
-<p align="center">
-
-🎓 Curious Student • 💻 Software & Hardware Enthusiast • 🚀 Intelligent Systems Builder
-
-</p>
-
----
-
 ## 🌟 About Me
 
 - 🔭 Currently building and experimenting with AI-powered software and hardware systems
@@ -23,30 +15,6 @@
 - 📚 Exploring **low-level systems**, intelligent architectures, and scalable engineering
 - 🚀 Love solving real-world problems using technology
 - ⚡ Continuously learning, building, and optimizing
-
----
-
-## 🧠 Engineering Philosophy
-
-```python
-class Ripudaman:
-
-    def __init__(self):
-
-        self.role = "AI Systems Engineer"
-
-        self.interests = [
-            "Computer Vision",
-            "Automation",
-            "IoT Systems",
-            "Machine Learning",
-            "Full Stack Engineering"
-        ]
-
-    def build(self):
-
-        return "Real-World Intelligent Systems"
-```
 
 ---
 
@@ -70,7 +38,6 @@ class Ripudaman:
 <img src="https://www.svgrepo.com/show/374112/swift.svg" style="width:80px; height:auto;" alt="SWIFT_LOGO"/>
 
 </p>
-
 ---
 
 ## 🧠 AI / ML / Computer Vision Libraries Worked On 
@@ -158,6 +125,31 @@ class Ripudaman:
 </p>
 
 ---
+
+## 🧠 Engineering Philosophy
+
+```python
+class Ripudaman:
+
+    def __init__(self):
+
+        self.role = "AI Systems Engineer"
+
+        self.interests = [
+            "Computer Vision",
+            "Automation",
+            "IoT Systems",
+            "Machine Learning",
+            "Full Stack Engineering"
+        ]
+
+    def build(self):
+
+        return "Real-World Intelligent Systems"
+```
+
+---
+
 
 # ✨ Interests
 
