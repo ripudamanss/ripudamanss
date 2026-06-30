@@ -2,7 +2,7 @@
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=AI+Tools+Utilizer;Full+Stack+Engineer;Computer+Vision+Builder;IoT+%26+Automation+Enthusiast;Building+Intelligent+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=AI+Tools+Utilizer;Full+Stack+Developer;Computer+Vision+Builder;IoT+%26+Automation+Enthusiast;Building+Intelligent+Systems" />
 
 </p>
 
